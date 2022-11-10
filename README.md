@@ -1,5 +1,7 @@
-# explainability-in-practice
-code for the paper "Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal"
+# Explainability in Practice
+
+code for the paper "Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal" 
+(L. State, H. Salat, S. Rubrichi and Z. Smoreda)
 
 Jupyter notebook files:
 
