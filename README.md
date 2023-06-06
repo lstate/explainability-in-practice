@@ -1,7 +1,18 @@
 # Explainability in Practice
 
-Code for the paper "Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal" 
+1) Code for the paper "Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal" 
 (L. State, H. Salat, S. Rubrichi and Z. Smoreda)
+
+Archival at The first World Conference on eXplainable AI (XAI 2023)
+
+Updated code (and paper).
+
+
+
+2) Code for the paper "Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal" 
+(L. State, H. Salat, S. Rubrichi and Z. Smoreda)
+
+Non-archival at TSRML Workshop (NeurIPS 2022)
 
 Jupyter notebook files:
 
